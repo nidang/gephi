@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "http://www.korea.ac.kr/mbshome/mbs/university/images/img/img_1_1_5_1_3_1.gif",
+    "link": "http://dh.aks.ac.kr/~jisun/edu/index.php/DataHumanities21-2",
+    "text": "김지선"
+  },
+  "text": {
+    "more": "한강 이남 고등학교 교가에 등장한 산을 분석하였습니다.한강 이남 고등학교 교가에 등장한 산을 분석하였습니다.한강 이남 고등학교 교가에 등장한 산을 분석하였습니다.한강 이남 고등학교 교가에 등장한 산을 분석하였습니다.한강 이남 고등학교 교가에 등장한 산을 분석하였습니다.",
+    "intro": "한강 이남 고등학교 교가에 등장한 산을 분석하였습니다.",
+    "title": "한강 이남 고등학교 교가에 등장한 산 분석"
+  },
+  "legend": {
+    "edgeLabel": "relation",
+    "colorLabel": "class",
+    "nodeLabel": "한강이남 고등학교 교가 정보"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": "Betweenness Centrality"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
